@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Probability distribution of travel times -- code</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Aude Hofleitner</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="talks.html">Talks&nbsp;and&nbsp;presentations</a></div>
+<div class="menu-item"><a href="mm.html">Project</a></div>
+<div class="menu-item"><a href="past_research.html">Previous&nbsp;research</a></div>
+<div class="menu-category">Curriculum</div>
+<div class="menu-item"><a href="classes.html">Classes</a></div>
+<div class="menu-item"><a href="teaching.html">Teaching&nbsp;and&nbsp;mentoring</a></div>
+<div class="menu-item"><a href="CV.html">CV</a></div>
+<div class="menu-item"><a href="outreach.html">Outreach</a></div>
+</td>
+<td id="layout-content">
+<h1>Probability distribution of travel times in signalized flow networks: a horizontal queuing theory approach</h1>
+<p>This article was submitted in April 2012 to Operations Research, INFORMS.<br />
+Authors: A. Hofleitner, R. Herring and A. Bayen <br />
+<br /></p>
+<p>Abstract:<br />
+Urban traffic flow dynamics are driven by the presence of traffic signals, 
+which leads to important vehicle-to-vehicle travel time variability. 
+We develop a comprehensive model of horizontal queuing theory to derive 
+an analytical expression for the probability distribution of travel times, 
+parameterized by physical parameters (signals, free flow speed distribution, queue lengths). 
+The distributions are derived between any two locations on the network allowing 
+to learn the model parameters from sparsely sampled probe vehicles, 
+without need for site specific calibration.
+The main sources of measurements with the prospect of global coverage 
+in the near future come from vehicles which report their location periodically in time 
+(emph{e.g.} every minute), not necessarily at the beginning and at the end of the links of the network. 
+Moreover, probe vehicles may traverse several links between successive location reports. 
+We prove that the travel time distributions are mixture of log-concave distributions 
+and introduce a convex formulation to decompose the travel time between successive 
+location reports into individual link travel times (travel time allocation) 
+and learn the parametric distribution of travel times on the network.
+Using data collected by emph{Sensys Networks} in Chula Vista, CA, 
+we show that the distribution derived in this article more accurately represents 
+the empirical distribution of travel times than other commonly used distributions. 
+The estimation capabilities can be further improved by inputing prior information on the 
+physical parameters characterizing the probability distributions. <br />
+<br /></p>
+<p>The code used to produce the results presented in this paper is available
+for <a href="http://www.eecs.berkeley.edu/~aude/downloads/traffic_code.zip">download</a></p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2012-10-11 11:10:00 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23947553-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</body>
+</html>

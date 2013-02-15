@@ -1,0 +1,60 @@
+# jemdoc: menu{MENU}{talks.html}, title{Aude Hofleitner -- Talks and presentations}
+
+= Talks and presentations
+
+== Invited talks and seminars
+. Big data in science: application to large scale physical systems, California Council on Science and Technology, Irvine, CA, October 13, 2011.
+#
+. [talks/20110609_seminaire_modele_transport.pdf Modele statistique du trafic urbain sur un reseau: application a l'estimation a partir de donnees GPS] (A statistical model or urban traffic on a network: application to traffic estimation from sparse GPS data), seminaire modele de transport (IFSTTAR), Marne La Vallee, France, June 9, 2010.
+#
+. Modelisation statistique du trafic et estimation a partir de donnees diffuses de geolocalisation (Statistical modeling and estimation of arterial traffic from sparse GPS data), Research Seminar on transportation network modeling, Marne La Vallee, France, July 1, 2010.
+#
+. A Dynamic Bayesian Network for arterial traffic estimation and forecast, 12th Research Seminar TISIC (Information, Signal and Image processing) on filtering and estimation, Paris, France, June 25, 2010.
+#
+. Mobile Millennium and Arterial Traffic estimation, Research Seminar GRETIA (INRETS), Marne La Vallee, France, June 8, 2010.
+
+== Media events
+. [http://www.radio-canada.ca/emissions/les_annees_lumiere/2011-2012/ Contrer la congestion routiere (fighting traffic congestion)] Radio Canada Les Annees lumiere, science et technology (the light years, science and technology), Sept 30, 2011
+#
+. Mobile Millennium. [http://www.ce.berkeley.edu/news-archive/view.php?item=257 CITRIS Press Briefing with Marvell co-founder Weili Dai. ] UC Berkeley, Berkeley, CA. May 5, 2009.
+
+== International conferences presentations and posters
+. [posters/trb2012_stat.pdf Probability distributions of travel times on arterial networks: a traffic flow and horizontal queuing theory approach], 91st Transportation Board Annual Meeting, Paper number 12-0798, Washington D.C., January 2012.
+#
+. [posters/trb2012_nmf.pdf Large scale estimation of arterial traffic and structural analysis of traffic patterns using probe vehicles], 91st Transportation Board Annual Meeting, Paper number 12-0598, Washington D.C., January 2012.
+#
+. [posters/trb2012_3stream.pdf A Three-Stream Model for Arterial Traffic], 91st Transportation Board Annual Meeting, Paper number 12-1212, Washington D.C., January 2012.
+#
+. Poster presentation, Google Bay Area PhD Summit, Mountain View Ca, January 2012.
+#
+. Online least-squares estimation of time varying systems with sparse temporal evolution and application to traffic estimation, 50th Conference on Decision and Control, Orlando, Fl., Dec. 12, 2011.
+#
+. [posters/trb_2010_poster.pdf Using Mobile Phones to Forecast Arterial Traffic through Statistical Learning], Transportation Research Board 89th annual meeting, Washington, D.C., Jan 2010.
+#
+. [posters/poster_sensing_strategies.pdf Dynamic sensing policies for monitoring arterial road traffic], Neural Information Processing System Workshop, Adaptive Sensing, Active Learning and Experimental Design: Theory, Methods and Applications, Whistler, Canada, Dec 2010.
+#
+. [papers/CPS_week_2009_abstract.pdf Mobile Millennium Demonstration - Participatory Traffic Estimation Using Mobile Phones]. CPS Forum, Cyber-Physical Systems Week 2009. San Francisco, CA, April 13, 2009.
+#
+. Mobile Millennium, privacy and security in cyberphysical systems, ITS World Congress, New-York City, NY, Nov. 2008.
+
+
+== Technical talks and seminars
+
+. An introduction to graphical models, presentation in CE 290, Advanced Special Topics in Civil and Environmental Engineering. Main instructor: A. Bayen, UC Berkeley, CA, Oct 4, 2010.
+#
+. An integrated approach of traffic modeling and statistical models, presentation in CE 290 Advanced Special Topics in Civil and Environmental Engineering. Main instructor: A. Bayen, UC Berkeley, CA, Sept 13, 2010.
+#
+. Mobile Millennium, using participatory sensing to optimize large scale infrastructure cyberphysical systems, Ecole Nationale des Ponts et Chaussees -- CCIT meeting, Berkeley, CA, Sept. 2008.
+#
+. Optimization of traffic flows at intersections using automatic switches in traffic light, Seminar on dynamical systems, TU Dresden, Germany, Jun. 2007.
+
+== Industry, government and delegation talks
+
+~~~
+{}{img_left}{images/photo_AudeHofleitner_Pecresse_crop.jpg}{Photo with Valerie Pecresse}{300}{}{http://www.eecs.berkeley.edu/news/mobilemillennium.html}
+
+. Mobile Millennium, [http://www.eecs.berkeley.edu/news/mobilemillennium.html presentation for a French delegation with the secretary of education, Valerie Pecresse], April 16, 2009
+#
+. A public private partnership in fostering innovation and research: the Mobile Millennium project, presentation for a French delegation from l'Institut des Hautes Etudes pour la Science et la Technologie ([http://www.ihest.fr/l-institut/presentation/presentation-of-the-institute National Institute of Science and Technology]), Berkeley, CA, March 23, 2009.
+
+~~~

@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{mm.html}, title{Aude Hofleitner -- My main research project}
+
+= [http://traffic.berkeley.edu Mobile Millennium Project]
+
+~~~
+{}{img_left}{images/mmviz.jpg}{Screen shot of the MM visualizer}{300}{}{http://traffic.berkeley.edu}
+I work on the [http://traffic.berkeley.edu Mobile Millennium Project]. The Mobile Millennium project is a joint initiative from UC Berkeley, Nokia, Navteq and the California Department of Transportation. It is aimed at pursuing research and developing algorithms at
+the cutting edge in traffic estimation, traffic forecast, and real-time routing, and is world renowned
+for its extensive work on cell-phone GPS data acquired by mobile users of the Mobile Millennium
+software.\n \n
+
+I am particularly interested in statistical models and machine learning algorithms for arterial traffic estimation and forecast.
+~~~

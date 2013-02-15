@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{code_lasso.html}, title{Online homotopy algorithm -- code}
+
+= Online homotopy algorithm for a generalization of the LASSO with applications to online learning
+
+This article was submitted in April 2012 to the IEEE Transactions on Automatic Control.\n
+Authors: A. Hofleitner, T. Rabbani, M. Rafiee, S. Rosat, L. El Ghaoui and A. Bayen.\n
+\n
+
+Abstract:\n
+The LASSO is a widely used shrinkage and selection method for linear regression. We propose
+a generalization of the LASSO in which the l1 penalty is applied on a linear transformation of the
+regression parameters, allowing the study of the structure of the problem. We also study time varying
+system with an l1-penalty on the variations of the state, leading to estimates that exhibit few "jumps". We
+propose a homotopy algorithm that updates the solution as additional measurements become available.
+The algorithm is designed to be computationally efficient by taking advantage of the sparsity of the
+LASSO solution. It provides significant accuracy improvements compared to linear regression by filtering
+out the observation and/or state and leveraging the structure of the system. The algorithm also improves
+the interpretability of the results and has important applications for feature selection and mining large
+datasets. The algorithm is implemented on three experimental data sets, which include one industry
+grade production system, representing applications to traffic estimation from sparsely sampled probe
+vehicles, flow estimation in tidal channels and text analysis of on-line news.\n
+\n
+
+The code used to produce the results presented in this paper is available
+ for [http://www.eecs.berkeley.edu/~aude/downloads/lasso_code.zip download]
+ 
