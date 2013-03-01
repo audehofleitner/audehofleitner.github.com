@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Online homotopy algorithm -- code</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Aude Hofleitner</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="talks.html">Talks&nbsp;and&nbsp;presentations</a></div>
+<div class="menu-item"><a href="mm.html">Project</a></div>
+<div class="menu-item"><a href="past_research.html">Previous&nbsp;research</a></div>
+<div class="menu-category">Curriculum</div>
+<div class="menu-item"><a href="classes.html">Classes</a></div>
+<div class="menu-item"><a href="teaching.html">Teaching&nbsp;and&nbsp;mentoring</a></div>
+<div class="menu-item"><a href="CV.html">CV</a></div>
+<div class="menu-item"><a href="outreach.html">Outreach</a></div>
+</td>
+<td id="layout-content">
+<h1>Online homotopy algorithm for a generalization of the LASSO with applications to online learning</h1>
+<p>This article was submitted in April 2012 to the IEEE Transactions on Automatic Control.<br />
+Authors: A. Hofleitner, T. Rabbani, M. Rafiee, S. Rosat, L. El Ghaoui and A. Bayen.<br />
+<br /></p>
+<p>Abstract:<br />
+The LASSO is a widely used shrinkage and selection method for linear regression. We propose
+a generalization of the LASSO in which the l1 penalty is applied on a linear transformation of the
+regression parameters, allowing the study of the structure of the problem. We also study time varying
+system with an l1-penalty on the variations of the state, leading to estimates that exhibit few &ldquo;jumps&rdquo;. We
+propose a homotopy algorithm that updates the solution as additional measurements become available.
+The algorithm is designed to be computationally efficient by taking advantage of the sparsity of the
+LASSO solution. It provides significant accuracy improvements compared to linear regression by filtering
+out the observation and/or state and leveraging the structure of the system. The algorithm also improves
+the interpretability of the results and has important applications for feature selection and mining large
+datasets. The algorithm is implemented on three experimental data sets, which include one industry
+grade production system, representing applications to traffic estimation from sparsely sampled probe
+vehicles, flow estimation in tidal channels and text analysis of on-line news.<br />
+<br /></p>
+<p>The code used to produce the results presented in this paper is available
+for <a href="http://www.eecs.berkeley.edu/~aude/downloads/lasso_code.zip">download</a></p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2012-10-11 11:10:00 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23947553-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</body>
+</html>

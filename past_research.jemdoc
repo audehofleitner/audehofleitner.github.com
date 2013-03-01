@@ -1,0 +1,50 @@
+# jemdoc: menu{MENU}{past_research.html}, title{Previous research and internships}
+
+= Research projects and internships
+
+== Laboratoire Genie des REseaux de Transport et Informatique Avancee ([http://www.inrets.fr/ur/gretia/ GRETIA]),\n
+Jun. 2010 - Aug. 2010  Marne La Vallee, France\n
+Visiting graduate student researcher (advisor: [http://www.inrets.fr/ur/gretia/equipe.htm#LEBACQUE Prof. Jean-Patrick Lebacque])\n
+Modeling, formulation and implementation of a dynamic bayesian network for arterial traffic modeling
+derived from traffic theory and flow conservation. Implementation on a medium scale network
+(San Francisco arterial network).
+
+== California Center for Innovative Transportation ([http://calccit.org CCIT]), \n
+Jul. 2008 - Jun. 2009  Berkeley, CA\n
+Visiting graduate student researcher (advisor: [http://lagrange.ce.berkeley.edu/bayen/ Prof. Alexandre Bayen])\n
+Mobile Millennium project. \n
+Applications of viability-based Hamilton-Jacobi techniques to the
+problem of data assimilation in systems of networked partial differential equations. Reduction of
+an estimation problem to a linear program (LP) using closed form Lax-Hopf formulae. In charge
+of building a model to produce traffic estimates using a hybrid system model of arterial 
+flow.
+
+== Laboratoire Ville Mobilite Transport ([http://www.lvmt.fr/?lang=en&var_mode=calcul LVMT]),\n
+Jan. 2008 - Jun. 2008  Champs-sur-Marne, France\n
+Research Assistant (advisor: [http://www.enpc.fr/lvmt/frederic.meunier/ Prof. Frederic Meunier])\n
+Development and implementation of static assignment algorithms for network 
+flows based on minimum-mean cycle cancellation. \n
+Use of dynamic programming algorithms on non-cyclical directed
+graphs. Interest in convergence and complexity of these algorithms.
+
+== Technische Universitat Dresden (\"Friedrich List Institut\"),\n
+ Apr. 2007 - Jul.2007  Dresden, Germany\n
+Research Scholar (advisor: [http://www.agnld.uni-potsdam.de/~reik/ Dr. Reik Donner] 
+and [https://www1.ethz.ch/soms/people/dhelbing Prof. Dirk Helbing]) \n
+Optimization of traffic  flows at intersections using automatic switches in traffic lights depending
+on the state of congestion of the road. Control of dynamical hybrid systems.
+
+== Ecole Polytechnique, Hydrodynamics Laboratory ([http://www.ladhyx.polytechnique.fr/jsp/accueil.jsp?CODE=64569478&LANGUE=1 LadHyx]), \n
+Jan. 2007 -Apr. 2007  Palaiseau, France \n
+Research Assistant (advisor: [http://www.amath.washington.edu/~pjs/ Prof. Peter Schmid]) \n
+Input/output analysis for pipe flows. Flow induced by a pressure gradient in a cylindrical pipe.
+Effects of different types of perturbations with an input/ouput analysis. Analysis of the evolution
+of a perturbation to determine if it can be explained with linear equations only or if it stems from
+a purely non-linear process.
+
+== Institut de Recherche Criminelle de la Gendarmerie Nationale (IRCGN), \n
+ Sep. 2005-Jun. 2006  Palaiseau, France  \n
+Research Assistant (advisor: [http://www-public.it-sudparis.eu/~douc_ran/ Prof. Randal Douc]) \n
+Part of a criminal law-enforcement team (scientific division). Use of signal processing to characterize
+disguise of voices. Use of cepstral coefficients and statistical methods to work on original signal
+reconstruction based on fuzzified recordings

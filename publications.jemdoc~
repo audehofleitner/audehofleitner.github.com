@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{publications.html}, title{Aude Hofleitner -- publications}
+
+= Publications
+
+== Conferences
+. Probability distributions of travel times on arterial networks: a traffic flow and horizontal queuing theory approach, A. Hofleitner, R. Herring and A. Bayen, 91st Transportation Research Board Annual Meeting, Washington D.C., January 2012
+. Large scale estimation of arterial traffic and structural analysis of traffic patterns using probe vehicles, A. Hofleitner, R. Herring, A. Bayen, Y. Han, F. Moutarde and A. de La Fortelle, 91st Transportation Research Board Annual Meeting, Washington D.C., January 2012
+. A Three-Stream Model for Arterial Traffic, C. Bails, A. Hofleitner, Y. Xuan and A. Bayen, 91st Transportation Research Board Annual Meeting, Washington D.C., January 2012
+. [papers/cdc2011_lasso_temporal.pdf Online least-squares estimation of time varying systems with sparse temporal evolution and application to traffic estimation], A. Hofleitner,
+L. El Ghaoui, A. Bayen, submitted, 50th IEEE Conference on Decision and Control and European Control Conference, December 2011
+. [papers/ITSC2011_decomposition.pdf Optimal decomposition of travel times measured by probe vehicles using a statistical traffic flow model], A. Hofleitner, A. Bayen, 14th IEEE Intelligent Transportation System Conference (ITSC 2011), Washington D.C., October, 2011
+. [papers/IEEE_ITSC2010.pdf Estimating arterial traffic conditions using sparse probe data], R. Herring, A. Hofleitner, P. Abbeel, A. Bayen, 13th IEEE Intelligent Transportation System Conference (ITSC 2010), Madeira, Portugal, September, 2010
+. [papers/TRB_2010.pdf Using Mobile Phones to Forecast Arterial Traffic Through Statistical Learning], R. Herring, A. Hofleitner, S. Amin, T. Nasr, A. Khalek, P. Abbeel, A. Bayen, 89th Transportation Research Board Annual Meeting, Washington D.C., January 10-14, 2010
+. [papers/TRB_2009.pdf Guaranteed bounds on highway travel times using probe and fixed data], C. Claudel, A. Hofleitner, N. Mignerey and A. Bayen, 88th Transportation Research Board Annual Meeting, Washington D.C., January 10-14 2009
+. [papers/Donner_Phys_Conf_2007.pdf Dynamic Stabilization and Control of Material Flows in Networks and its Relationship to Phase Synchronization], R. Donner, A. Hofleitner, J. Hofener, S. Lammer, D. Helbing, Proceedings of the 3rd International Conference on Physics and Control (PHYSCON 2007), 1188. 
+
+== Book chapter
+
+. Decentralised Control of Traffic Flows in Urban Networks, R. Donner, S. Lammer, A. Hofleitner, D. Helbing, Lectures on Socio- and Econophysics, ed. by J.J. Schneider (Springer, Berlin, forthcoming)
+
+== Workshops
+
+. [papers/workshop_nips_2009.pdf Dynamic sensing policies for monitoring arterial road traffic], A. Hofleitner, S. Amin, R. Herring, P. abbeel, A. Bayen, NIPS workshop on Adaptive Sensing, Active Learning and Experimental Design: Theory, Methods and Applications, December 2009
+
+== Working papers & Technical reports
+
+. [papers/traffic_distributions.pdf A hydrodynamic theory based statistical model of arterial traffic], A. Hofleitner, R. Herring, A. Bayen, Tech Report UC Berkeley UCB-ITS-CWP-2011-2, January 2011
+
+== In review
+
+. Arterial travel time forecast with streaming data: a hybrid approach of flow modeling and machine learning, A. Hofleitner, R. Herring and A. Bayen, submitted, Transportation Research Part B
+
+

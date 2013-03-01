@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{code_traffic.html}, title{Probability distribution of travel times -- code}
+
+= Probability distribution of travel times in signalized flow networks: a horizontal queuing theory approach
+
+This article was submitted in April 2012 to Operations Research, INFORMS.\n
+Authors: A. Hofleitner, R. Herring and A. Bayen \n
+\n
+
+Abstract:\n
+Urban traffic flow dynamics are driven by the presence of traffic signals, 
+which leads to important vehicle-to-vehicle travel time variability. 
+We develop a comprehensive model of horizontal queuing theory to derive 
+an analytical expression for the probability distribution of travel times, 
+parameterized by physical parameters (signals, free flow speed distribution, queue lengths). 
+The distributions are derived between any two locations on the network allowing 
+to learn the model parameters from sparsely sampled probe vehicles, 
+without need for site specific calibration.
+The main sources of measurements with the prospect of global coverage 
+in the near future come from vehicles which report their location periodically in time 
+(\emph{e.g.} every minute), not necessarily at the beginning and at the end of the links of the network. 
+Moreover, probe vehicles may traverse several links between successive location reports. 
+We prove that the travel time distributions are mixture of log-concave distributions 
+and introduce a convex formulation to decompose the travel time between successive 
+location reports into individual link travel times (travel time allocation) 
+and learn the parametric distribution of travel times on the network.
+Using data collected by \emph{Sensys Networks} in Chula Vista, CA, 
+we show that the distribution derived in this article more accurately represents 
+the empirical distribution of travel times than other commonly used distributions. 
+The estimation capabilities can be further improved by inputing prior information on the 
+physical parameters characterizing the probability distributions. \n
+\n
+
+The code used to produce the results presented in this paper is available
+ for [http://www.eecs.berkeley.edu/~aude/downloads/traffic_code.zip download]
+ 
