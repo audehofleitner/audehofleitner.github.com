@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{bibtex/code_traffic.html}, title{Arterial travel time forecast with streaming data: a hybrid approach of flow modeling and machine learning -- Bibtex}
+
+= Arterial travel time forecast with streaming data: A hybrid approach of flow modeling and machine learning
+
+
+Abstract:\n
+This article presents a hybrid modeling framework for estimating and predicting arterial traffic conditions using streaming GPS probe data. The model is based on a well-established theory of traffic flow through signalized intersections and is combined with a machine learning framework to both learn static parameters of the roadways (such as free flow velocity or traffic signal parameters) as well as to estimate and predict travel times through the arterial network. The machine learning component of the approach uses the significant amount of historical data collected by the Mobile Millennium system since March 2009 with over 500 probe vehicles reporting their position once per minute in San Francisco, CA.
+
+The hybrid model provides a distinct advantage over pure statistical or pure traffic theory models in that it is robust to noisy data (due to the large volumes of historical data) and it produces forecasts using traffic flow theory principles consistent with the physics of traffic. Validation of the model is performed in two different ways. First, a large scale test of the model is performed by splitting the data source into two sets, using the first to produce the estimates and the second to validate them. Second, an alternate validation approach is presented. It consists of a 3-day experiment in which GPS data was collected once per second from 20 drivers on four routes through San Francisco, allowing for precise calculation of actual travel times. The model is run by down-sampling the data and validated using the travel times from these 20 drivers. The results indicate that this approach is a significant step forward in estimating traffic states throughout the arterial network using a relatively small amount of real-time data. The estimates from our model are compared to those given by a data-driven baseline algorithm, for which we achieve a 16% improvement in terms of the root mean squared error of travel time estimates. The primary reason for success is the reliance on a flow model of traffic, which ensures that estimates are consistent with the physics of traffic.\n
+\n
+
+~~~
+{}{}
+@article{hofleitner2012arterial,
+title = "Arterial travel time forecast with streaming data: A hybrid approach of flow modeling and machine learning",
+journal = "Transportation Research Part B: Methodological",
+volume = "46",
+number = "9",
+pages = "1097 - 1122",
+year = "2012",
+note = "",
+issn = "0191-2615",
+doi = "10.1016/j.trb.2012.03.006",
+url = "http://www.sciencedirect.com/science/article/pii/S0191261512000513",
+author = "Aude Hofleitner and Ryan Herring and Alexandre Bayen",
+keywords = "Arterial traffic",
+keywords = "Estimation",
+keywords = "Forecast",
+keywords = "Streaming data",
+keywords = "Machine learning",
+keywords = "GPS probe data"
+}
+~~~
