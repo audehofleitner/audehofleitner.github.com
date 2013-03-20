@@ -19,6 +19,9 @@ The hybrid model provides a distinct advantage over pure statistical or pure tra
     journal = {IEEE Transactions on Intelligent Transportation Systems},
     year = {2012},
     doi = {10.1109/TITS.2012.2200474},
+    volume = {13},
+    number = {4},
+    pages = {1679--1693},
     publisher = {IEEE}
 }
 
@@ -31,6 +34,10 @@ The hybrid model provides a distinct advantage over pure statistical or pure tra
 <meta name="citation_author" content="Herring, Ryan">
 <meta name="citation_author" content="Abbeel, Pieter">
 <meta name="citation_author" content="Bayen, Alexandre">
+<meta name="citation_volume" content="13">
+<meta name="citation_issue" content="4">
+<meta name="citation_firstpage" content="1679">
+<meta name="citation_lastpage" content="1693">
 <meta name="citation_publication_date" content="2012">
 <meta name="citation_journal_title" content="IEEE Transactions on Intelligent Transportation Systems">
 <meta name="citation_pdf_url" content="http://audehofleitner.github.com/papers/T-ITS2012.pdf">

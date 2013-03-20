@@ -9,16 +9,19 @@ A. Hofleitner, R. Herring and A. Bayen, doi: 10.1016/j.trb.2012.03.006, Transpor
 #
 . [papers/T-ITS2012.pdf Learning the dynamics of arterial traffic from probe data using a Dynamic Bayesian Network], 
 A. Hofleitner, R. Herring, P. Abbeel and A. Bayen, in press, doi: 10.1109/TITS.2012.2200474, 
-IEEE Transactions on Intelligent Transportation Systems, Vol. 13, 2012. \n
+IEEE Transactions on Intelligent Transportation Systems, Vol. 13, Issue 4, pp 1679-1693, 2012. \n
 [t-its2012.html Bibtex]
 
 == Conferences
-. [papers/cdc2012_viab.pdf Probabilistic formulation of estimation problems for a class of Hamilton-Jacobi equations], A. Hofleitner, C. Claudel and A. Bayen, 51st IEEE Conference on Decision and Control, pp 3531-3537, December 2012
+. [papers/cdc2012_viab.pdf Probabilistic formulation of estimation problems for a class of Hamilton-Jacobi equations], A. Hofleitner, C. Claudel and A. Bayen, doi: 10.1109/CDC.2012.6426316, 51st IEEE Conference on Decision and Control, pp 3531-3537, December 2012.\n
+[cdc2011.html Bibtex]
 #
-. [papers/ITSC2012_signal.pdf  Automatic signal detection leveraging sparsely sampled probe vehicles], A. Hofleitner, E. Come, L. Oukhellou, J-P Lebacque and A. Bayen, 15th IEEE Intelligent Transportation System Conference (ITSC 2012), September, 2012.
+. [papers/ITSC2012_signal.pdf  Automatic signal detection leveraging sparsely sampled probe vehicles], A. Hofleitner, E. Come, L. Oukhellou, J-P Lebacque and A. Bayen, doi: 10.1109/ITSC.2012.6338641, 15th IEEE Intelligent Transportation System Conference (ITSC 2012), pp 1687-1692, September, 2012.\n
+[itsc2012.html Bibtex]
 #
 . [papers/ACC2012_viability.pdf Reconstruction of boundary conditions from internal conditions using viability theory], 
-A. Hofleitner, C. Claudel, A. Bayen, 2012 American Control Conference, Montreal, Canada, June 2012.
+A. Hofleitner, C. Claudel, A. Bayen, 2012 American Control Conference, Montreal, Canada, June 2012.\n
+[acc2012.html Bibtex]
 #
 . [papers/TRB2012_stat_traffic.pdf Probability distributions of travel times on arterial networks: 
 a traffic flow and horizontal queuing theory approach], A. Hofleitner, R. Herring and A. Bayen, 
@@ -35,7 +38,8 @@ Number 12-1212, Washington D.C., January 2012
 #
 . [papers/cdc2011_lasso_temporal.pdf Online least-squares estimation of time varying systems with sparse temporal evolution and application to traffic estimation], A. Hofleitner,
 L. El Ghaoui, A. Bayen, 50th IEEE Conference on Decision and Control and European Control Conference, pp. 2595-2601, 
-doi: 10.1109/CDC.2011.6160832, Atlanta Fl., December 2011
+doi: 10.1109/CDC.2011.6160832, Atlanta Fl., December 2011\n
+[cdc2012.html Bibtex]
 #
 . [papers/ITSC2011_decomposition.pdf Optimal decomposition of travel times measured by probe vehicles 
 using a statistical traffic flow model], A. Hofleitner, A. Bayen, 
