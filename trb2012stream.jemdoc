@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{trb2012stream.html}, title{Three-Stream Model for Arterial Traffic}
+
+= Three-Stream Model for Arterial Traffic 
+
+== Bibtex
+~~~
+{}{}
+@inproceedings{bails2012three,
+title={Three-Stream Model for Arterial Traffic},
+author={Bails, Constant and Hofleitner, Aude and Xuan, Yiguang and Bayen, Alexandre},
+booktitle={Transportation Research Board 91st Annual Meeting},
+number={12-1212},
+year={2012}
+}
+~~~
+
+~~~
+{}{raw}
+<meta name="citation_title" content="Large-Scale Estimation of Arterial Traffic and Structural Analysis of Traffic Patterns from Probe Vehicles">
+<meta name="citation_author" content="Bails, Constant">
+<meta name="citation_author" content="Hofleitner, Aude">
+<meta name="citation_author" content="Xuan, Yiguang">
+<meta name="citation_author" content="Bayen, Alexandre">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_conference_title" content="91st Transportation Research Board Annual Meeting, Washington, DC">
+<meta name="citation_pdf_url" content="http://audehofleitner.github.com/papers/TRB2012_three_streams.pdf">
+~~~

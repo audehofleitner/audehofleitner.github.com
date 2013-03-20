@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{trb2012prob.html}, title{Probability distributions of travel times on arterial networks: A traffic flow and horizontal queuing theory approach}
+
+= Probability distributions of travel times on arterial networks: A traffic flow and horizontal queuing theory approach
+
+== Bibtex
+~~~
+{}{}
+@inproceedings{hofleitner2012probability,
+title={Probability distributions of travel times on arterial networks: A traffic flow and horizontal queuing theory approach},
+author={Hofleitner, Aude and Herring, Ryan and Bayen, Alexandre},
+booktitle={91st Transportation Research Board Annual Meeting, Washington, DC},
+year={2012},
+number={12-0798}
+}
+~~~
+
+~~~
+{}{raw}
+<meta name="citation_title" content="Probability distributions of travel times on arterial networks: A traffic flow and horizontal queuing theory approach">
+<meta name="citation_author" content="Hofleitner, Aude">
+<meta name="citation_author" content="Herring, Ryan">
+<meta name="citation_author" content="Bayen, Alexandre">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_conference_title" content="91st Transportation Research Board Annual Meeting, Washington, DC">
+<meta name="citation_pdf_url" content="http://audehofleitner.github.com/papers/TRB2012_stat_traffic.pdf">
+~~~

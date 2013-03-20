@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{trb2012nmf.html}, title{Large-Scale Estimation of Arterial Traffic and Structural Analysis of Traffic Patterns from Probe Vehicles}
+
+= Large-Scale Estimation of Arterial Traffic and Structural Analysis of Traffic Patterns from Probe Vehicles 
+
+== Bibtex
+~~~
+{}{}
+@inproceedings{hofleitner2012large,
+title={Large-Scale Estimation of Arterial Traffic and Structural Analysis of Traffic Patterns from Probe Vehicles},
+author={Hofleitner, Aude and Herring, Ryan and Bayen, Alexandre and Han, Yufei and Moutarde, Fabien and de La Fortelle, Arnaud},
+booktitle={91st Transportation Research Board Annual Meeting},
+number={12-0598},
+year={2012}
+}
+~~~
+
+~~~
+{}{raw}
+<meta name="citation_title" content="Large-Scale Estimation of Arterial Traffic and Structural Analysis of Traffic Patterns from Probe Vehicles">
+<meta name="citation_author" content="Hofleitner, Aude">
+<meta name="citation_author" content="Herring, Ryan">
+<meta name="citation_author" content="Bayen, Alexandre">
+<meta name="citation_author" content="Yufei, Han">
+<meta name="citation_author" content="Moutarde, Fabien">
+<meta name="citation_author" content="de La Fortelle, Arnaud">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_conference_title" content="91st Transportation Research Board Annual Meeting, Washington, DC">
+<meta name="citation_pdf_url" content="http://audehofleitner.github.com/papers/TRB2012_NMF.pdf">
+~~~
