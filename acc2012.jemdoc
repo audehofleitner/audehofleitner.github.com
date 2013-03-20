@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{acc2012.html}, title{Reconstruction of boundary conditions from internal conditions using viability theory}
+
+= Reconstruction of boundary conditions from internal conditions using viability theory 
+
+
+== Abstract
+This article presents a method for reconstructing downstream boundary conditions to a HamiltonJacobi partial differential equation for which initial and upstream boundary conditions are prescribed as piecewise affine functions and an internal condition is prescribed as an affine function. Based on viability theory, we reconstruct the downstream boundary condition such that the solution of the Hamilton-Jacobi equation with the prescribed initial and upstream conditions and reconstructed downstream boundary condition satisfies the internal value condition. This work has important applications for estimation in flow networks with unknown capacity reductions. It is applied to urban traffic, to reconstruct signal timings and temporary capacity reductions at intersections, using Lagrangian sensing such as GPS devices onboard vehicles.\n
+\n
+
+== Bibtex
+~~~
+{}{}
+@INPROCEEDINGS{hofleitner2012reconstruction, 
+author={Hofleitner, A. and Claudel, C. and Bayen, A.}, 
+booktitle={American Control Conference (ACC)}, 
+title={Reconstruction of boundary conditions from internal conditions using viability theory}, 
+year=2012,
+month=jun, 
+pages={640--645}, 
+ISSN={0743-1619},
+}
+~~~
+
+~~~
+{}{raw}
+<meta name="citation_title" content="Reconstruction of boundary conditions from internal conditions using viability theory">
+<meta name="citation_author" content="Hofleitner, Aude">
+<meta name="citation_author" content="Claudel, Christian">
+<meta name="citation_author" content="Bayen, Alexandre">
+<meta name="citation_firstpage" content="640">
+<meta name="citation_lastpage" content="645">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_conference_title" content="American Control Conference (ACC)">
+<meta name="citation_pdf_url" content="http://audehofleitner.github.com/papers/ACC2012_viability.pdf">
+~~~

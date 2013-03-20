@@ -1,0 +1,36 @@
+# jemdoc: menu{MENU}{cdc2012.html}, title{Probabilistic formulation of estimation problems for a class of Hamilton-Jacobi equations}
+
+= Probabilistic formulation of estimation problems for a class of Hamilton-Jacobi equations 
+
+
+== Abstract
+This article presents a method for deriving the probability distribution of the solution to a Hamilton-Jacobi partial differential equation for which the value conditions are random. The derivations lead to analytical or semi-analytical expressions of the probability distribution function at any point in the domain in which the solution is defined. The characterization of the distribution of the solution at any point is a first step towards the estimation of the parameters defining the random value conditions. This work has important applications for estimation in flow networks in which value conditions are noisy. In particular, we illustrate our derivations on a road segment with random capacity reductions.\n
+\n
+
+== Bibtex
+~~~
+{}{}
+@INPROCEEDINGS{hofleitner2012probabilistic, 
+author={Hofleitner, A. and Claudel, C. and Bayen, A.M.}, 
+booktitle={ IEEE 51st Annual Conference on Decision and Control (CDC)}, 
+title={Probabilistic formulation of estimation problems for a class of Hamilton-Jacobi equations}, 
+year=2012,
+month=dec, 
+pages={3531--3537}, 
+doi={10.1109/CDC.2012.6426316}, 
+ISSN={0743-1546},
+}
+~~~
+
+~~~
+{}{raw}
+<meta name="citation_title" content="Probabilistic formulation of estimation problems for a class of Hamilton-Jacobi equations">
+<meta name="citation_author" content="Hofleitner, Aude">
+<meta name="citation_author" content="Claudel, Christian">
+<meta name="citation_author" content="Bayen, Alexandre">
+<meta name="citation_firstpage" content="3531">
+<meta name="citation_lastpage" content="3537">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_conference_title" content="51st IEEE Conference on Decision and Control (CDC)">
+<meta name="citation_pdf_url" content="http://audehofleitner.github.com/papers/cdc2012_viab.pdf">
+~~~

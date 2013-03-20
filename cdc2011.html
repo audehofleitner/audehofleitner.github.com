@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Online least-squares estimation of time varying systems with sparse temporal evolution and application to traffic estimation</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Aude Hofleitner</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="talks.html">Talks&nbsp;and&nbsp;presentations</a></div>
+<div class="menu-item"><a href="mm.html">Project</a></div>
+<div class="menu-item"><a href="past_research.html">Previous&nbsp;research</a></div>
+<div class="menu-category">Curriculum</div>
+<div class="menu-item"><a href="classes.html">Classes</a></div>
+<div class="menu-item"><a href="teaching.html">Teaching&nbsp;and&nbsp;mentoring</a></div>
+<div class="menu-item"><a href="CV.html">CV</a></div>
+<div class="menu-item"><a href="outreach.html">Outreach</a></div>
+</td>
+<td id="layout-content">
+<h1>Online least-squares estimation of time varying systems with sparse temporal evolution and application to traffic estimation </h1>
+<h2>Abstract</h2>
+<p>Using least-squares with an l1-norm penalty is well-known to encourage sparse solutions. In this article, we propose an algorithm that performs online least-squares estimation of a time varying system with a l1-norm penalty on the variations of the state estimate, leading to state estimates that exhibit few jumps over time. The algorithm analytically computes a path to update the state estimate as a new observation becomes available. The algorithm performs computationally efficient and numerically robust state estimation for time varying systems in which the dynamics are slow compared to the sampling rate. We use the algorithm for arterial traffic estimation with streaming probe vehicle data provided by the Mobile Millennium system and show a significant improvement in the estimation capabilities compared to a baseline model of traffic estimation. The estimation framework filters out the inherent noise of traffic dynamics and improves the interpretability and accuracy of the results. Results from an implementation in San Francisco on a network of more than 800 links using a fleet of 500 taxis sending their location every minute illustrate the possibility to use the algorithm to solve important practical estimation problems.<br />
+<br /></p>
+<h2>Bibtex</h2>
+<div class="codeblock">
+<div class="blockcontent"><pre>
+@INPROCEEDINGS{hofleitner2012online,
+author={Hofleitner, A. and El Ghaoui, L. and Bayen, A.},
+booktitle={50th IEEE Conference on Decision and Control and European Control Conference (CDC-ECC)},
+title={Online least-squares estimation of time varying systems with sparse temporal evolution and application to traffic estimation},
+year={2011},
+month=dec,
+pages={2595--2601},
+doi={10.1109/CDC.2011.6160832},
+ISSN={0743-1546},
+}
+
+</pre></div></div>
+<meta name="citation_title" content="Online least-squares estimation of time varying systems with sparse temporal evolution and application to traffic estimation">
+<meta name="citation_author" content="Hofleitner, Aude">
+<meta name="citation_author" content="El Ghaoui, Laurent">
+<meta name="citation_author" content="Bayen, Alexandre">
+<meta name="citation_firstpage" content="2595">
+<meta name="citation_lastpage" content="2601">
+<meta name="citation_publication_date" content="2011">
+<meta name="citation_conference_title" content="50th IEEE Conference on Decision and Control and European Control Conference (CDC-ECC)">
+<meta name="citation_pdf_url" content="http://audehofleitner.github.com/papers/cdc2011_lasso_temporal.pdf">
+<div id="footer">
+<div id="footer-text">
+Page generated 2013-03-19 17:40:01 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23947553-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</body>
+</html>

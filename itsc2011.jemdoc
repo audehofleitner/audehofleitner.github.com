@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{itsc2011.html}, title{Optimal decomposition of travel times measured by probe vehicles using a statistical traffic flow model}
+
+= Optimal decomposition of travel times measured by probe vehicles using a statistical traffic flow model 
+
+
+== Abstract
+Sparse location measurements of probe vehicles are a promising data source for arterial traffic monitoring. One common challenge in processing this source of data is that vehicles are sampled infrequently (on the order of once per minute), which means that many vehicles will travel several links of the network between consecutive measurements. In this article, we propose an optimal decomposition of path travel times of probe vehicles to link travel times for each link traversed. From a model of arterial traffic dynamics, we derive probability distributions of travel times. We prove that these distributions are mixtures of log-concave distributions and derive convex formulations of the travel time allocation problem. We validate our approach using detailed video camera data from the Next Generation Simulation project (NGSIM).\n
+\n
+
+== Bibtex
+~~~
+{}{}
+@INPROCEEDINGS{6083050, 
+author={Hofleitner, A. and Bayen, A.}, 
+booktitle={14th International IEEE Conference on Intelligent Transportation Systems (ITSC)}, 
+title={Optimal decomposition of travel times measured by probe vehicles using a statistical traffic flow model}, 
+month=oct,
+year={2011},
+pages={815--821}, 
+doi={10.1109/ITSC.2011.6083050}, 
+ISSN={2153-0009},}
+
+~~~
+
+~~~
+{}{raw}
+<meta name="citation_title" content="Optimal decomposition of travel times measured by probe vehicles using a statistical traffic flow model">
+<meta name="citation_author" content="Hofleitner, Aude">
+<meta name="citation_author" content="Bayen, Alexandre">
+<meta name="citation_firstpage" content="815">
+<meta name="citation_lastpage" content="821">
+<meta name="citation_publication_date" content="2011">
+<meta name="citation_conference_title" content="14th International IEEE Conference on Intelligent Transportation Systems (ITSC)">
+<meta name="citation_pdf_url" content="http://audehofleitner.github.com/papers/ITSC2011_decomposition.pdf">
+~~~

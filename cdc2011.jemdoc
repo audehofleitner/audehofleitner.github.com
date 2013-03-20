@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{cdc2011.html}, title{Online least-squares estimation of time varying systems with sparse temporal evolution and application to traffic estimation}
+
+= Online least-squares estimation of time varying systems with sparse temporal evolution and application to traffic estimation 
+
+
+== Abstract
+Using least-squares with an l1-norm penalty is well-known to encourage sparse solutions. In this article, we propose an algorithm that performs online least-squares estimation of a time varying system with a l1-norm penalty on the variations of the state estimate, leading to state estimates that exhibit few jumps over time. The algorithm analytically computes a path to update the state estimate as a new observation becomes available. The algorithm performs computationally efficient and numerically robust state estimation for time varying systems in which the dynamics are slow compared to the sampling rate. We use the algorithm for arterial traffic estimation with streaming probe vehicle data provided by the Mobile Millennium system and show a significant improvement in the estimation capabilities compared to a baseline model of traffic estimation. The estimation framework filters out the inherent noise of traffic dynamics and improves the interpretability and accuracy of the results. Results from an implementation in San Francisco on a network of more than 800 links using a fleet of 500 taxis sending their location every minute illustrate the possibility to use the algorithm to solve important practical estimation problems.\n
+\n
+
+== Bibtex
+~~~
+{}{}
+@INPROCEEDINGS{hofleitner2012online, 
+author={Hofleitner, A. and El Ghaoui, L. and Bayen, A.}, 
+booktitle={50th IEEE Conference on Decision and Control and European Control Conference (CDC-ECC)},
+title={Online least-squares estimation of time varying systems with sparse temporal evolution and application to traffic estimation}, 
+year={2011},
+month=dec,
+pages={2595--2601}, 
+doi={10.1109/CDC.2011.6160832}, 
+ISSN={0743-1546},
+}
+
+~~~
+
+~~~
+{}{raw}
+<meta name="citation_title" content="Online least-squares estimation of time varying systems with sparse temporal evolution and application to traffic estimation">
+<meta name="citation_author" content="Hofleitner, Aude">
+<meta name="citation_author" content="El Ghaoui, Laurent">
+<meta name="citation_author" content="Bayen, Alexandre">
+<meta name="citation_firstpage" content="2595">
+<meta name="citation_lastpage" content="2601">
+<meta name="citation_publication_date" content="2011">
+<meta name="citation_conference_title" content="50th IEEE Conference on Decision and Control and European Control Conference (CDC-ECC)">
+<meta name="citation_pdf_url" content="http://audehofleitner.github.com/papers/cdc2011_lasso_temporal.pdf">
+~~~

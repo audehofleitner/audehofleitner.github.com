@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{itsc2012.html}, title{Automatic inference of map attributes from mobile data}
+
+= Automatic inference of map attributes from mobile data 
+
+== Abstract
+The development and update of reliable Geographic Information Systems (GIS) greatly benefits Intelligent Transportation Systems developments including real-time traffic management platforms and assisted driving technologies. The collection and processing of the data required for the development and update of GIS is a long and expensive process which is prone to errors and inaccuracies, making its automation promising. The article introduces a method which leverages the emergence of sparsely sampled probe vehicle data to update and improve existing GIS. We present an unsupervised classification algorithm which discriminates between signalized road segments (as having a signal at the downstream intersection) and non-signalized road segments. This algorithm uses a statistical model of the probability distribution of vehicle location within a link, derived from hydrodynamic traffic flow theory. The decision of whether the link has a traffic signal or not is taken according to model selection criteria. Numerical results performed with sparsely sampled probe data collected by the Mobile Millennium system in the Bay Area of San Francisco, CA underline the importance of the problem addressed by the article to improve the accuracy and update signal information of GIS. They showcase the ability of the method to detect the presence of traffic signals automatically.\n
+\n
+
+== Bibtex
+~~~
+{}{}
+@INPROCEEDINGS{hofleitner2012automatic, 
+author={Hofleitner, A. and Come, E. and Oukhellou, L. and Lebacque, J. and Bayen, A.}, 
+booktitle={15th International IEEE Conference on Intelligent Transportation Systems (ITSC)},
+title={Automatic inference of map attributes from mobile data}, 
+year={2012},
+month=sep, 
+pages={1687--1692}, 
+doi={10.1109/ITSC.2012.6338641}, 
+ISSN={2153-0009},
+}
+
+~~~
+
+~~~
+{}{raw}
+<meta name="citation_title" content="Automatic inference of map attributes from mobile data">
+<meta name="citation_author" content="Hofleitner, Aude">
+<meta name="citation_author" content="Come, Etienne">
+<meta name="citation_author" content="Oukhellou, Latifa">
+<meta name="citation_author" content="Lebacque, Jean-Patrick">
+<meta name="citation_author" content="Bayen, Alexandre">
+<meta name="citation_firstpage" content="1687">
+<meta name="citation_lastpage" content="1692">
+<meta name="citation_publication_date" content="2012">
+<meta name="citation_conference_title" content="15th International IEEE Conference on Intelligent Transportation Systems (ITSC)">
+<meta name="citation_pdf_url" content="http://audehofleitner.github.com/papers/ITSC2012_signal.pdf">
+~~~
