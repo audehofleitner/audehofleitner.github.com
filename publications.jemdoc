@@ -3,7 +3,8 @@
 = Publications
 
 == Journal articles
-. Online homotopy algorithm for a generalization of the LASSO, A. Hofleitner, T. Rabbani, L. El Ghaoui and A. Bayen, accepted, IEEE Transactions on Automatic Control, 2013.
+. Online homotopy algorithm for a generalization of the LASSO, A. Hofleitner, T. Rabbani, L. El Ghaoui and A. Bayen, accepted, IEEE Transactions on Automatic Control, 2013.\n
+[IEEE-TAC2013.html Bibtex]
 #
 . [papers/TR-B2012_hybrid.pdf Arterial travel time forecast with streaming data: a hybrid approach of flow modeling and machine learning], 
 A. Hofleitner, R. Herring and A. Bayen, doi: 10.1016/j.trb.2012.03.006, Transportation Research Part B Vol. 46, Issue 9, pp 1097-1122, November 2012.\n
@@ -81,11 +82,5 @@ A. Hofleitner, S. Amin, R. Herring, P. abbeel, A. Bayen, NIPS workshop on Adapti
 == Working papers & Technical reports
 
 . [papers/traffic_distributions.pdf A hydrodynamic theory based statistical model of arterial traffic], A. Hofleitner, R. Herring, A. Bayen, Tech Report UC Berkeley UCB-ITS-CWP-2011-2, January 2011
-
-== In review
-
-. [code_traffic.html Probability distribution of travel times in signalized flow networks: a horizontal queuing theory approach], 
-A. Hofleitner, R. Herring and A. Bayen , submitted, Operations Research, INFORMS, April, 2012
-
 
 

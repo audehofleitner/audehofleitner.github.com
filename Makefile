@@ -1,4 +1,4 @@
-DOCS=index mm teaching CV outreach classes past_research publications talks teaching code_lasso code_traffic tr-b2012 t-its2012 cdc2012 itsc2012 cdc2011 itsc2011 acc2012 trb2012nmf trb2012stream trb2012prob aoas2013
+DOCS=index mm teaching CV outreach classes past_research publications talks teaching code_lasso code_traffic tr-b2012 t-its2012 cdc2012 itsc2012 cdc2011 itsc2011 acc2012 trb2012nmf trb2012stream trb2012prob aoas2013 IEEE-TAC2013
 
 HDOCS=$(addsuffix .html, $(DOCS))
 #HDOCS=*.html
