@@ -5,7 +5,7 @@
 
 ~~~
 {}{img_left}{images/aude_m_gourmet.png}{Aude Hofleitner photo}{150}{}{}
-Ph.D. Candidate \n
+Ph.D. \n
 [http://www.eecs.berkeley.edu Department of Electrical Engineering and Computer Science] \n
 [http://www.berkeley.edu UC Berkeley]
 
@@ -13,12 +13,16 @@ Ph.D. Candidate \n
 : {}			[http://www.eecs.berkeley.edu/~pabbeel/ Professor Pieter Abbeel]
 ~~~
 
-I am a PhD candidate in Electrical Engineering and Computer Science (EECS) at the University of California, Berkley.
-I work with Professor [http://lagrange.ce.berkeley.edu/bayen/ Alex Bayen] and Professor [http://www.eecs.berkeley.edu/~pabbeel/ Pieter Abbeel] 
+I just finished my PhD in Electrical Engineering and Computer Science (EECS) at the University of California, Berkley.
+I workws with Professor [http://lagrange.ce.berkeley.edu/bayen/ Alex Bayen] and Professor [http://www.eecs.berkeley.edu/~pabbeel/ Pieter Abbeel] 
 on the [http://traffic.berkeley.edu Mobile Millennium project] in the Intelligent Systems, Control, and Robotics Area ([http://www.eecs.berkeley.edu/Research/Areas/CIR/ CIR]). 
-My research interests span statistical models and optimization, control and estimation theory, with applications to traffic estimation and pattern learning from GPS probe vehicle.
+My research interests span statistical models and optimization, control and estimation theory, with applications to traffic estimation and pattern learning from GPS probe vehicle. \n
+
+*Thesis*: [papers/EECS_Phd.pdf A hybrid approach of physical laws and data-driven modeling for estimation: the example of queuing networks]
 
 == News
+- *2013\/05\/29*: I was awarded the 2nd Abertis International Prize for my dissertation. You can read about it [awards/abertis_thesis.pdf here] or read the [awards/abertis_moniteur.pdf article from Le Moniteur] in French.
+- *2013\/05\/15*: I submitted my thesis. It is available [papers/EECS_Phd.pdf here]. 
 - *2013\/05\/03*: I gave my dissertation talk: /A hybrid approach of physical laws and data-driven modeling for estimation: the example of queuing networks/. The slides are available [talks/20130503_dissertation_talk.pdf here].
 
 == Contact

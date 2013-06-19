@@ -19,7 +19,7 @@ IEEE Transactions on Intelligent Transportation Systems, Vol. 13, Issue 4, pp 16
 . [papers/cdc2012_viab.pdf Probabilistic formulation of estimation problems for a class of Hamilton-Jacobi equations], A. Hofleitner, C. Claudel and A. Bayen, doi: 10.1109/CDC.2012.6426316, 51st IEEE Conference on Decision and Control, pp 3531-3537, December 2012.\n
 [cdc2011.html Bibtex]
 #
-. [papers/ITSC2012_signal.pdf  Automatic signal detection leveraging sparsely sampled probe vehicles], A. Hofleitner, E. Come, L. Oukhellou, J-P Lebacque and A. Bayen, doi: 10.1109/ITSC.2012.6338641, 15th IEEE Intelligent Transportation System Conference (ITSC 2012), pp 1687-1692, September 2012.\n
+. [papers/ITSC2012_signal.pdf  Automatic inference of map attributes from mobile data], A. Hofleitner, E. Come, L. Oukhellou, J-P Lebacque and A. Bayen, doi: 10.1109/ITSC.2012.6338641, 15th IEEE Intelligent Transportation System Conference (ITSC 2012), pp 1687-1692, September 2012.\n
 [itsc2012.html Bibtex]
 #
 . [papers/ACC2012_viability.pdf Reconstruction of boundary conditions from internal conditions using viability theory], 
@@ -73,6 +73,10 @@ Proceedings of the 3rd International Conference on Physics and Control (PHYSCON 
 
 . Decentralised Control of Traffic Flows in Urban Networks, R. Donner, S. Lammer, A. Hofleitner, 
 D. Helbing, Lectures on Socio- and Econophysics, ed. by J.J. Schneider (Springer, Berlin), 2009
+
+== Dissertation
+
+. [papers/EECS_Phd.pdf A hybrid approach of physical laws and data-driven modeling for estimation: the example of queuing networks], A. Hofleitner, EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2013-87, May 2013.
 
 == Workshops
 
